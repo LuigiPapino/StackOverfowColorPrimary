@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_a_key">Theme A</string>
+    <string name="theme_b_key">Theme B</string>
+    <string name="theme_c_key">Theme C</string>
+</resources>
